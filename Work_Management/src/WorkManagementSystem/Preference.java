@@ -1,4 +1,4 @@
-package MatanBardugo_OmerLande;
+package WorkManagementSystem;
 
 import java.io.Serializable;
 
