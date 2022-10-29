@@ -1,4 +1,4 @@
-package MatanBardugo_OmerLande;
+package WorkManagementSystem;
 
 public class EmployeeBaseAndSales extends EmployeeBase{
 
